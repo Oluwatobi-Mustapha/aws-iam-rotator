@@ -50,9 +50,5 @@ This tool enforces a two-phase lifecycle that **deactivates keys before deletion
 **Sample Output:**
 <img width="2408" height="907" alt="image" src="https://github.com/user-attachments/assets/679c28e3-e9bc-4db7-ad5a-6463c329b082" />
 
-## ⚠️ Disclaimer
- Use with caution: this tool modifies IAM credentials. Test in non-production or ensure admin console access for recovery.
-
-
     
    
